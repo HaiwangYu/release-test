@@ -1,0 +1,6 @@
+cfg
+*.h5
+*.root
+*.log
+*.db
+log
